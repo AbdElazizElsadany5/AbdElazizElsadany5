@@ -1,252 +1,133 @@
 <div align="center">
 
-# 👋 ABD EL AZIZ ELSADANY
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=480066&animation=fadeIn&customColorList=6,11,20,24,30"/>
 
-**Full-Stack Developer | Backend Engineer | AI Enthusiast**
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7B66AB&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
 
-[📧 Email](mailto:zizoelsadany5@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/abd-el-aziz-elsadany) • [🐙 GitHub](https://github.com/AbdElazizElsadany5)
+<h2 align="center">
+  ✦ Built with Intention. Crafted to Last. ✦
+</h2>
 
-![Profile views](https://komarev.com/ghpvc/?username=AbdElazizElsadany5&color=00b4d8&style=flat-square)
+<p>
+Building modern, responsive and user-friendly web experiences with clean code, creativity, and a problem-solving mindset.
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AbdElazizElsadany5&label=Profile+Views&style=for-the-badge&color=8B5CF6"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-7b1d7f4e-4f58-4f9d-8f0b-2a3b5c1b7b1f.gif" width="100%">
+
+## 💫 About Me
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284136-1e3d8e4d-9c3f-4b6e-8b7e-1b1d6d4b8c8e.gif">
+
+🎨 Web Designer / Frontend Developer
+
+⚛️ React / TypeScript enthusiast
+
+🏆 ICPC Participant
+
+💻 Passionate about building modern, responsive, and accessible web applications.
+
+🚀 Currently improving my skills in:
+
+- TypeScript
+- Node.js
+- NestJS
+
+🎯 My goal is to become a Full Stack JavaScript Developer.
+
+<br clear="right"/>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,nodejs,nestjs,git,github,vscode,figma,cpp"/>
 
 </div>
 
 ---
 
-## 📋 PROFILE / ENGINEER
-
-| Field | Details |
-|-------|---------|
-| **Name** | Abd El Aziz Elsadany |
-| **Role** | Full-Stack Web Developer & Backend Engineer |
-| **Based** | El Mahalla El Kubra, Egypt 🇪🇬 |
-| **Mode** | Node.js / REST APIs / Backend Engineering |
-| **Writes** | Scalable APIs, Modern Web Apps, NLP Solutions |
-
----
-
-## 🎯 BUILD FOCUS
-
-### **MCU / Backend**
-- **Language:** Node.js, Express.js, JavaScript
-- **Specialization:** RESTful APIs, Microservices, Backend Architecture
-- **Focus:** Database Design, API Optimization, Scalability
-
-### **RTOS / Cloud**
-- **Platform:** OCI Cloud Services, Linux, Docker
-- **Focus:** System Design, Deployment Pipelines, DevOps
-- **Tools:** Container Orchestration, Cloud Infrastructure
-
-### **Frontend**
-- **Framework:** Angular, TypeScript
-- **Skills:** Responsive Design, Modern UI/UX, HTML5, CSS3
-- **Focus:** User Experience, Performance Optimization
-
----
-
-## 🔧 TOOLCHAIN
-
-### Code & Languages
-```
-🔹 JavaScript  🔹 TypeScript  🔹 Python  🔹 Bash  🔹 SQL
-```
-
-### Framework & Libraries
-```
-🔹 Node.js  🔹 Express.js  🔹 Angular  🔹 REST APIs
-```
-
-### IDE & Development Tools
-```
-🔹 VS Code  🔹 Postman  🔹 Git/GitHub  🔹 npm/webpack
-```
-
-### Debug & Profiling
-```
-🔹 Network Analysis  🔹 Performance Monitoring  🔹 System Debugging
-```
-
-### Build & Deployment
-```
-🔹 Docker  🔹 CI/CD Pipelines  🔹 Linux  🔹 OCI Cloud
-```
-
----
-
-## 🚀 FEATURED PROJECTS
-
-### 1️⃣ **MovieHub Platform** 🎬
-**Stack:** Node.js, Express, Angular, MongoDB
-
-Comprehensive movie management web application featuring:
-- ✅ Full end-to-end task modularization
-- ✅ User authentication & authorization
-- ✅ Movie database with advanced filtering
-- ✅ Responsive Angular interface
-- ✅ RESTful API architecture
-
-**[View Repository](#)** | **[Live Demo](#)**
-
----
-
-### 2️⃣ **ECHO Egypt Infrastructure** 🏗️
-**Stack:** Node.js, Express, REST APIs, Cloud Architecture
-
-Backend infrastructure for ECHO Egypt platform:
-- ✅ Scalable REST API endpoints
-- ✅ User data management pipelines
-- ✅ API documentation & specifications
-- ✅ Cloud deployment architecture
-- ✅ Service integration layer
-
-**[View Repository](#)** | **[Documentation](#)**
-
----
-
-### 3️⃣ **E-Commerce REST APIs** 💳
-**Stack:** Node.js, Express.js, MongoDB, Nodemon
-
-Production-ready RESTful API for e-commerce:
-- ✅ Secure authentication & JWT tokens
-- ✅ Product management system
-- ✅ Order processing & tracking
-- ✅ Payment integration ready
-- ✅ Rate limiting & security middleware
-
-**[View Repository](#)** | **[API Docs](#)**
-
----
-
-## 💡 TECHNICAL EXPERTISE
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  BACKEND ENGINEERING                                          ║
-║  ├─ RESTful API Design & Development                          ║
-║  ├─ Microservices Architecture                                ║
-║  ├─ Database Design & Optimization                            ║
-║  ├─ Authentication & Authorization (JWT, OAuth)              ║
-║  └─ Performance Tuning & Scalability                          ║
-║                                                               ║
-║  FULL-STACK DEVELOPMENT                                       ║
-║  ├─ Frontend: Angular, TypeScript, HTML/CSS                   ║
-║  ├─ Backend: Node.js, Express.js                              ║
-║  ├─ Databases: MongoDB, MySQL                                 ║
-║  └─ Cloud & Deployment                                        ║
-║                                                               ║
-║  AI & EMERGING TECHNOLOGIES                                   ║
-║  ├─ Natural Language Processing (NLP)                         ║
-║  ├─ Large Language Models (LLMs)                              ║
-║  ├─ Tokenization & Text Processing                            ║
-║  ├─ OCI Speech Services Integration                           ║
-║  └─ Supervised Learning Models                                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🛠️ SKILLS & TOOLS
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend Development
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### AI & Cloud
-![OCI](https://img.shields.io/badge/-OCI%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-00A4EF?style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GITHUB STATISTICS
+# 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdElazizElsadany5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/AbdElazizElsadany5)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdElazizElsadany5&theme=tokyonight&hide_border=true)](https://github.com/AbdElazizElsadany5)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElazizElsadany5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AbdElazizElsadany5)
+<img src="https://streak-stats.demolab.com?user=AbdElazizElsadany5&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎓 PROFESSIONAL TRAINING
-
-### 🚀 Digital Egypt Pioneers Initiative (DEBI)
-- **Focus:** Software development & advanced tech skills
-- **Status:** Ongoing
-- **Skills:** Full-stack development, problem-solving, team collaboration
-
-### 🌐 National Telecommunication Institute (NTI)
-- **Program:** Web Development & Backend Software Engineering
-- **Duration:** Intensive professional training
-- **Specialization:** Backend systems, API architecture, database optimization
-
----
-
-## 🌱 CURRENT FOCUS
-
-- 🎯 **Natural Language Processing (NLP)** - Deep learning in text understanding
-- 🎯 **Large Language Models (LLMs)** - Integration and fine-tuning
-- 🎯 **OCI Speech Services** - Voice and audio processing
-- 🎯 **Scalable Architecture** - Enterprise-grade system design
-- 🎯 **Microservices** - Advanced backend patterns and practices
-
----
-
-## 🤝 COLLABORATION & COMMUNITY
-
-I'm passionate about:
-- ✅ Contributing to open-source projects
-- ✅ Building scalable, maintainable software
-- ✅ Mentoring junior developers
-- ✅ Sharing knowledge through blogs & tutorials
-- ✅ Collaborating on innovative AI projects
-
----
-
-## 📞 LET'S CONNECT!
+# 📈 Contribution Activity
 
 <div align="center">
 
-**I'm always interested in discussing:**
-- 🚀 Full-stack development challenges
-- 💡 AI & NLP applications
-- 🤝 Team collaboration & exciting projects
-- 📚 Technology trends & best practices
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdElazizElsadany5&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zizoelsadany5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-aziz-elsadany)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdElazizElsadany5)
+# 🐍 Snake Contribution
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbdElazizElsadany5/AbdElazizElsadany5/output/github-contribution-grid-snake.svg">
+
+</div>
 
 ---
 
-### 💪 Keep Learning | Keep Building | Keep Growing
+# 🏅 Achievements
 
-**Made with ❤️ by Abd El Aziz Elsadany**
+✨ Frontend React Developer
+
+🎨 Web Designer Trainee / Enthusiast
+
+⚛️ React & TypeScript
+
+🏆 ICPC Participant
+
+🚀 Continuous Learner
+
+💡 Problem Solver
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://AbdElazizElsadany5.github.io/">
+<img src="https://img.shields.io/badge/✦%20Portfolio ✦-641A80?style=for-the-badge"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://t.me/your-telegram">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=6,11,20,24,30"/>
 
 </div>
