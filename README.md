@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=0078D4&animation=fadeIn&customColorList=002050,005A9E,0078D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&color=0078D4"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=0078D4&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Creative+Problem+Solver;Building+the+Future+Web"/>
 
@@ -126,6 +126,6 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=002050,005A9E,0078D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0078D4"/>
 
 </div>
