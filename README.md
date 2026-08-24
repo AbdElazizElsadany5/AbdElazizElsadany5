@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=FFFFFF&animation=fadeIn&customColorList=0066CC"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Creative+Problem+Solver;Full+Stack+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+the+Future+Web;Backend+Developer;Full+Stack+Developer;Always+Learning"/>
 
 <h2 align="center" style="color: white;">
   ✦ Coding with Passion. Creating with Purpose. ✦
@@ -28,11 +28,11 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 <span style="color: white; font-size: 16px;">
 
-🚀 Frontend React Developer with a passion for creating modern web experiences
+🚀 Backend Developer with a passion for creating modern web experiences
 
 ⚛️ Specialized in React, TypeScript, and JavaScript ecosystem
 
-💻 Full Stack aspirations: Node.js, NestJS, and backend development
+💻 Full Stack Developer: Node.js, NestJS, and backend development
 
 🎨 Combining design thinking with clean, efficient code
 
@@ -45,6 +45,19 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 </span>
 
 <br clear="right"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div style="background-color: #0066CC; padding: 20px; border-radius: 10px; color: white; text-align: center;">
+
+📚 **Backend Student at:**
+- 🏫 **NTI** (National Telecommunications Institute)
+- 🏫 **DEBI** (Digital Egypt Builders Initiative)
+- 🏫 **BATU** (Beni Suef Azhar Technical University)
 
 </div>
 
@@ -96,11 +109,11 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 <span style="color: white; font-size: 16px;">
 
-🚀 **Frontend Development** - Building responsive, interactive UIs with React
+🚀 **Backend Development** - Building robust, scalable server-side applications
 
 ⚛️ **TypeScript Proficiency** - Writing type-safe, maintainable code
 
-🎨 **Design Oriented** - Creating beautiful, user-centric interfaces
+🎨 **Full Stack Capabilities** - Creating complete end-to-end solutions
 
 💡 **Problem Solver** - Tackling complex challenges with creative solutions
 
