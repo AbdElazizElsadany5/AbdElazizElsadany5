@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=480066&animation=fadeIn&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=FF6B6B&animation=fadeIn&customColorList=FF6B6B,FF8E72,FFB088"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7B66AB&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Creative+Problem+Solver;Building+the+Future+Web"/>
 
 <h2 align="center">
-  ✦ Built with Intention. Crafted to Last. ✦
+  ✦ Coding with Passion. Creating with Purpose. ✦
 </h2>
 
 <p>
-Building modern, responsive and user-friendly web experiences with clean code, creativity, and a problem-solving mindset.
+Crafting elegant, performant web applications with React, TypeScript, and modern web technologies. Dedicated to writing clean code and delivering exceptional user experiences.
 </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AbdElazizElsadany5&label=Profile+Views&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=AbdElazizElsadany5&label=Profile+Views&style=for-the-badge&color=FF6B6B"/>
 
 </div>
 
@@ -24,21 +24,19 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284136-1e3d8e4d-9c3f-4b6e-8b7e-1b1d6d4b8c8e.gif">
 
-🎨 Web Designer / Frontend Developer
+🚀 Frontend React Developer with a passion for creating modern web experiences
 
-⚛️ React / TypeScript enthusiast
+⚛️ Specialized in React, TypeScript, and JavaScript ecosystem
 
-🏆 ICPC Participant
+💻 Full Stack aspirations: Node.js, NestJS, and backend development
 
-💻 Passionate about building modern, responsive, and accessible web applications.
+🎨 Combining design thinking with clean, efficient code
 
-🚀 Currently improving my skills in:
+🏆 Competitive programmer (ICPC participant)
 
-- TypeScript
-- Node.js
-- NestJS
+🌱 Always learning, always building, always improving
 
-🎯 My goal is to become a Full Stack JavaScript Developer.
+🎯 Vision: Become a proficient Full Stack JavaScript Developer
 
 <br clear="right"/>
 
@@ -48,7 +46,7 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,nodejs,nestjs,git,github,vscode,figma,cpp"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,nestjs,git,github,vscode,figma,cpp"/>
 
 </div>
 
@@ -58,7 +56,7 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AbdElazizElsadany5&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AbdElazizElsadany5&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -68,7 +66,7 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdElazizElsadany5&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdElazizElsadany5&theme=redical&hide_border=true"/>
 
 </div>
 
@@ -84,50 +82,50 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 ---
 
-# 🏅 Achievements
+# 🏅 Key Strengths
 
-✨ Frontend React Developer
+🚀 **Frontend Development** - Building responsive, interactive UIs with React
 
-🎨 Web Designer Trainee / Enthusiast
+⚛️ **TypeScript Proficiency** - Writing type-safe, maintainable code
 
-⚛️ React & TypeScript
+🎨 **Design Oriented** - Creating beautiful, user-centric interfaces
 
-🏆 ICPC Participant
+💡 **Problem Solver** - Tackling complex challenges with creative solutions
 
-🚀 Continuous Learner
+🏆 **Continuous Learner** - Always exploring new technologies and best practices
 
-💡 Problem Solver
+🔗 **Full Stack Ambitions** - Expanding expertise across the entire tech stack
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://AbdElazizElsadany5.github.io/">
-<img src="https://img.shields.io/badge/✦%20Portfolio ✦-641A80?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://t.me/your-telegram">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/Discord-FF6B6B?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=FF6B6B,FF8E72,FFB088"/>
 
 </div>
