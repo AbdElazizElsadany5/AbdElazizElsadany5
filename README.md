@@ -66,7 +66,7 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdElazizElsadany5&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdElazizElsadany5&theme=tokyonight&hide_border=true&area=true"/>
 
 </div>
 
