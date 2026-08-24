@@ -76,7 +76,7 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdElazizElsadany5/AbdElazizElsadany5/output/github-contribution-grid-snake.svg">
+<img width="100%" src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg"/>
 
 </div>
 
