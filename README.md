@@ -1,6 +1,6 @@
-<div align="center" style="background-color: #0066CC; padding: 20px;">
+<div align="center" style="background: linear-gradient(135deg, #7B68EE 0%, #6A5ACD 100%); padding: 20px;">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=FFFFFF&animation=fadeIn&customColorList=0066CC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=AbdElaziz%20Elsadany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=FFFFFF&animation=fadeIn&customColorList=7B68EE,6A5ACD"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+the+Future+Web;Backend+Developer;Full+Stack+Developer;Always+Learning"/>
 
@@ -20,7 +20,7 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-7b1d7f4e-4f58-4f9d-8f0b-2a3b5c1b7b1f.gif" width="100%">
 
-<div style="background-color: #0066CC; padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #7B68EE 0%, #6A5ACD 100%); padding: 20px; border-radius: 10px;">
 
 ## 💫 About Me
 
@@ -52,7 +52,7 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 ## 🎓 Education
 
-<div style="background-color: #0066CC; padding: 20px; border-radius: 10px; color: white; text-align: center;">
+<div style="background: linear-gradient(135deg, #7B68EE 0%, #6A5ACD 100%); padding: 20px; border-radius: 10px; color: white; text-align: center;">
 
 📚 **Backend Student at:**
 - 🏫 **NTI** (National Telecommunications Institute)
@@ -103,7 +103,7 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 
 ---
 
-<div style="background-color: #0066CC; padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #7B68EE 0%, #6A5ACD 100%); padding: 20px; border-radius: 10px;">
 
 # 🏅 Key Strengths
 
@@ -132,29 +132,29 @@ Crafting elegant, performant web applications with React, TypeScript, and modern
 <div align="center">
 
 <a href="https://AbdElazizElsadany5.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logoColor=0066CC"/>
+<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logoColor=7B68EE"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=0066CC"/>
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=7B68EE"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0066CC"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=7B68EE"/>
 </a>
 
 <a href="https://t.me/your-telegram">
-<img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=0066CC"/>
+<img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=7B68EE"/>
 </a>
 
 <a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=0066CC"/>
+<img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=7B68EE"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=0066CC,0080FF,1A99FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=7B68EE,6A5ACD,9370DB"/>
 
 </div>
